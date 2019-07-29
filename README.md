@@ -8,3 +8,4 @@ cd $GOPATH/src/github.com/mrpineapples/quiz-game
 go run main.go -csv=problems.csv
 ```
 
+Feel free to change the problems in the csv to your liking!
